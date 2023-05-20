@@ -12,3 +12,4 @@ Squad requires 4 ports
 | game +1  | 7788    |
 | Query    | 27165   |
 | Query +1 | 27166   |
+| Rcon     | 21114   |
